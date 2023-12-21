@@ -11,6 +11,9 @@
   width: min(400px, 100% - 50px);
   margin: 0 auto;
 }
+.container-nav {
+  width: min(400px, 100% - 50px);
+}
 
 body {
   background: #F2F4F8;

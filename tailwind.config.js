@@ -14,6 +14,8 @@ module.exports = {
       'black': '#000000',
       "icon":"#626262",
       "lime":"#0C6",
+      "transparent":"transparent",
+      "gray":"#8F8F8F",
     },
     extend: {
       boxShadow: {

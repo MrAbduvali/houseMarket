@@ -1,14 +1,14 @@
 import { initializeApp } from "firebase/app";
-// import 'firebase/compat/auth'
 import {getFirestore} from 'firebase/firestore'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDixgOf1rB4b3keAsD5FzQvxM7lHfUt9ZQ",
-  authDomain: "house-6270b.firebaseapp.com",
-  projectId: "house-6270b",
-  storageBucket: "house-6270b.appspot.com",
-  messagingSenderId: "77521393145",
-  appId: "1:77521393145:web:165a63f12be29f699a9928"
+  apiKey: "AIzaSyC_VNHbBHtYqIMmQ7f364ROarLK2oKfLvI",
+  authDomain: "house-market-305b9.firebaseapp.com",
+  projectId: "house-market-305b9",
+  storageBucket: "house-market-305b9.appspot.com",
+  messagingSenderId: "831997022417",
+  appId: "1:831997022417:web:8b0947c15284d49d2a75f0",
+  measurementId: "G-5X9CVEFE4L"
 };
 
 initializeApp(firebaseConfig);
